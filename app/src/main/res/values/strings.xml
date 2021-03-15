@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FootballScoreboard</string>
+    <string name="textView4">:</string>
+    <string name="textView3">accountGermany</string>
+    <string name="textView2">accountRussia</string>
+    <string name="Россия">Россия</string>
+    <string name="Германия">Германия</string>
+    <string name="Сброс">Сброс</string>
+</resources>
