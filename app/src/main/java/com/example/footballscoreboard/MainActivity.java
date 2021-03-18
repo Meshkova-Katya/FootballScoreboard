@@ -30,12 +30,14 @@ public class MainActivity extends AppCompatActivity {
 
     // Табло Германии
     public void clickOnGermany(View view) {
-        textView3.setText(String.valueOf(accountGermany++));
+        accountGermany++;
+        textView3.setText(String.valueOf(accountGermany));
     }
 
     // Табло России
     public void clickOnRussia(View view) {
-        textView2.setText(String.valueOf(accountRussia++));
+        accountRussia++;
+        textView2.setText(String.valueOf(accountRussia));
     }
 
     public void clickOnReset(View view) {
