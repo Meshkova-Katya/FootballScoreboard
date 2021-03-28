@@ -1,9 +1,12 @@
 <resources>
-    <string name="app_name">FootballScoreboard</string>
-    <string name="textView4">:</string>
-    <string name="textView3">accountGermany</string>
-    <string name="textView2">accountRussia</string>
-    <string name="Россия">Россия</string>
-    <string name="Германия">Германия</string>
-    <string name="Сброс">Сброс</string>
+    <string name="app_name" translatable="false">FootballScoreboard</string>
+    <string name="textView4" translatable="false">:</string>
+    <string name="textView3" translatable="false">accountGermany</string>
+    <string name="textView2" translatable="false">accountRussia</string>
+    <string name="Россия" translatable="false">Россия</string>
+    <string name="Германия" translatable="false">Германия</string>
+    <string name="Сброс" translatable="false">Сброс</string>
+    <string name="button2">button2</string>
+    <string name="button1">button1</string>
+    <string name="button3">button3</string>
 </resources>
